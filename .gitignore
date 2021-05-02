@@ -4,6 +4,7 @@
 .settings
 .idea
 .vscode
+.classpath
 **/build/
 
 # Compiled class file
