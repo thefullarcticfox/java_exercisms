@@ -1,5 +1,10 @@
 .exercism
 .gradle
+.project
+.settings
+.idea
+.vscode
+
 # Compiled class file
 *.class
 
